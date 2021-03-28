@@ -1,0 +1,1 @@
+Directorio destinado a almacenar toda documentación relacionada con los entegables del proyecto.

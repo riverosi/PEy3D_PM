@@ -1,0 +1,1 @@
+Directorio destinado a almacenar patentes.

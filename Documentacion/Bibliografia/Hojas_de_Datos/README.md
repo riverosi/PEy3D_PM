@@ -1,0 +1,1 @@
+Directorio destinado a almacenar hojas de datos de componentes, equipos, etc.

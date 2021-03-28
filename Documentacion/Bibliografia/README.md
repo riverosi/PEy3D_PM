@@ -1,0 +1,1 @@
+Directorio destinado a almacenar toda documentación de soporte necesaria para las actividades de diseño y desarrollo que no formen parte del Sistema de Gestion y como tal no controlada.

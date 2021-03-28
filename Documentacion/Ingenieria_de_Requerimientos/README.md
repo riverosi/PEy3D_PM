@@ -1,0 +1,1 @@
+Directorio destinado a almacenar los activos generados como salida de ejecución del proceso de Ingeniería de Requerimientos.

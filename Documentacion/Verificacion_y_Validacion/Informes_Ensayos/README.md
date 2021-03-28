@@ -1,0 +1,1 @@
+Directorio destinado a alojar los informes de ensayos generados como resultados de los testing del producto

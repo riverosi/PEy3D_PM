@@ -1,0 +1,1 @@
+Directorio destinado a alojar los informes de avances generados durante el proyecto

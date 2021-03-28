@@ -1,0 +1,1 @@
+Directorio destinado a almacenar publicaciones de revistas científicas, papers, etc.
